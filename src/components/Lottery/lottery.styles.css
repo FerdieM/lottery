@@ -1,0 +1,27 @@
+*,
+*::before,
+*::after {
+  padding: 0;
+  padding: 0;
+}
+
+body {
+  box-sizing: border-box;
+}
+
+.lottery {
+  width: 100vh;
+  padding: 20px 10px;
+  margin: 20px auto;
+  border: 5px solid blue;
+  text-align: center;
+}
+
+.lottery button {
+  padding: 10px 10px;
+  background-color: gold;
+  margin-top: 10px;
+  border-radius: 5px;
+  font-size: 1.1rem;
+  color: royalblue;
+}
